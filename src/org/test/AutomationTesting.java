@@ -7,4 +7,8 @@ public class AutomationTesting {
 		System.out.println("Reports");
 	}
 	
+	private void tc1() {
+		System.out.println("Report:1");
+
+	}
 }
